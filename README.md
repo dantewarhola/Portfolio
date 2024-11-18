@@ -3,7 +3,7 @@
 Hi there! I’m **Dante Lorenzo Warhola**, a Computer Science student with a minor in Economics at the University of Pittsburgh. This is my personal portfolio website, showcasing my projects, interests, and ways to get in touch. Check it out and learn more about me! 🚀
 
 ## 🏠 Live Demo
-You can view the live version of my website here: [Dante Warhola Portfolio](https://your-github-username.github.io/portfolio)
+You can view the live version of my website here: [Dante Warhola Portfolio](https://dantewarhola.github.io/portfolio/)
 
 ## 📜 Features
 ✨ **Dark Theme** for a sleek and modern look.  

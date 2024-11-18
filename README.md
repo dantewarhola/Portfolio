@@ -1,5 +1,3 @@
-Here’s a fun and engaging README for your GitHub portfolio repository, complete with emojis and a polished layout:
-
 ---
 
 # 🎉 Welcome to My Portfolio Website! 🖥️

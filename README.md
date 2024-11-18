@@ -20,9 +20,6 @@ You can view the live version of my website here: [Dante Warhola Portfolio](http
 - **JavaScript** for interactive elements ⚡
 - **Formspree** for email handling ✉️
 
-## 🖼️ Preview
-![Portfolio Preview](assets/img/portfolio-preview.png)
-
 ## 💼 Featured Projects
 1. **[Big Ideas in Computing and Information Final Project](https://github.com/dantewarhola/Big-Ideas-in-Computing-and-Information-Group-38-Final-Project)**  
    A collaborative project showcasing practical applications of computing technologies. 🧠

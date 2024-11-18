@@ -1,5 +1,3 @@
----
-
 # 🎉 Welcome to My Portfolio Website! 🖥️
 
 Hi there! I’m **Dante Lorenzo Warhola**, a Computer Science student with a minor in Economics at the University of Pittsburgh. This is my personal portfolio website, showcasing my projects, interests, and ways to get in touch. Check it out and learn more about me! 🚀
@@ -37,7 +35,3 @@ If you have any suggestions or improvements, feel free to open an issue or make 
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to copy and paste this into your `README.md` file. Replace the placeholders (like your GitHub username) with your actual information. Let me know if there’s anything you’d like to add or modify! 😊
